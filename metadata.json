@@ -1,0 +1,5 @@
+{
+  "name": "Alpha Ultimate Website 0.5",
+  "description": "A premium cleaning service website with service presentation, price estimation, and booking features.",
+  "requestFramePermissions": ["geolocation"]
+}

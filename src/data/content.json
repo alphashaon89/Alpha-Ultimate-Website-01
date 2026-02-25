@@ -1,0 +1,270 @@
+{
+  "home": {
+    "hero": {
+      "title": {
+        "en": "Unmatched Cleanliness, Unbeatable Service",
+        "ar": "نظافة لا مثيل لها، خدمة لا تقبل المنافسة",
+        "bn": "অতুলনীয় পরিচ্ছন্নতা, অপ্রতিদ্বন্দ্বী সেবা"
+      },
+      "subtitle": {
+        "en": "Experience the new standard in home and office cleaning. We deliver quality, reliability, and a pristine environment every time.",
+        "ar": "جرب المعيار الجديد في تنظيف المنازل والمكاتب. نقدم الجودة والموثوقية وبيئة نقية في كل مرة.",
+        "bn": "বাড়ি এবং অফিস পরিষ্কারে নতুন মান অনুভব করুন। আমরা প্রতিবার গুণমান, নির্ভরযোগ্যতা এবং একটি পরিষ্কার পরিবেশ প্রদান করি।"
+      },
+      "cta": {
+        "en": "Book Your Cleaning Now",
+        "ar": "احجز تنظيفك الآن",
+        "bn": "এখনই আপনার পরিষ্কার বুক করুন"
+      }
+    }
+  },
+  "services": [
+    {
+      "id": "post-construction",
+      "title": { "en": "Post-Construction Cleaning", "ar": "تنظيف ما بعد البناء", "bn": "নির্মাণ পরবর্তী পরিষ্কার" },
+      "description": {
+        "en": "Remove fine dust, cement residue, and paint splashes. Deep clean floors, walls, and fixtures. Leave your space move-in ready.",
+        "ar": "إزالة الغبار الدقيق وبقايا الإسمنت ورشاشات الطلاء. تنظيف عميق للأرضيات والجدران والتجهيزات.",
+        "bn": "সূক্ষ্ম ধুলো, সিমেন্টের অবশিষ্টাংশ এবং রঙের ছিটা অপসারণ। মেঝে, দেওয়াল এবং ফিক্সচার গভীরভাবে পরিষ্কার।"
+      },
+      "image": "/assets/gallery-kitchen-1.png",
+      "benefits": {
+        "en": ["Dust-Free Environment", "Move-In Ready", "Paint Splash Removal", "Deep Surface Clean"],
+        "ar": ["بيئة خالية من الغبار", "جاهز للسكن", "إزالة رشاشات الطلاء", "تنظيف عميق للأسطح"],
+        "bn": ["ধুলামুক্ত পরিবেশ", "মুভ-ইন প্রস্তুত", "রঙের ছিটা অপসারণ", "গভীর পৃষ্ঠ পরিষ্কার"]
+      },
+      "duration": { "en": "4–8 Hours", "ar": "٤–٨ ساعات", "bn": "৪–৮ ঘন্টা" },
+      "includedItems": {
+        "en": ["Cement & Dust Removal", "Floor Deep Clean", "Window & Glass Clean", "Fixture Polish"],
+        "ar": ["إزالة الإسمنت والغبار", "تنظيف عميق للأرضيات", "تنظيف النوافذ والزجاج", "تلميع التجهيزات"],
+        "bn": ["সিমেন্ট ও ধুলো অপসারণ", "মেঝে গভীর পরিষ্কার", "জানালা ও কাচ পরিষ্কার", "ফিক্সচার পালিশ"]
+      }
+    },
+    {
+      "id": "move-in-out",
+      "title": { "en": "Move-In / Move-Out Cleaning", "ar": "تنظيف الانتقال", "bn": "মুভ-ইন / মুভ-আউট পরিষ্কার" },
+      "description": {
+        "en": "Comprehensive cleaning for relocation. Clean cabinets, appliances, bathrooms, floors, and walls for a spotless handover.",
+        "ar": "تنظيف شامل للانتقال. تنظيف الخزائن والأجهزة والحمامات والأرضيات والجدران.",
+        "bn": "স্থানান্তরের জন্য ব্যাপক পরিষ্কার। পরিষ্কার ক্যাবিনেট, যন্ত্রপাতি, বাথরুম, মেঝে এবং দেওয়াল।"
+      },
+      "image": "/assets/gallery-whole-home-1.png",
+      "benefits": {
+        "en": ["Full Property Clean", "Cabinet Interior Clean", "Appliance Deep Clean", "Spotless Handover"],
+        "ar": ["تنظيف كامل للعقار", "تنظيف داخل الخزائن", "تنظيف عميق للأجهزة", "تسليم مثالي"],
+        "bn": ["সম্পূর্ণ সম্পত্তি পরিষ্কার", "ক্যাবিনেট অভ্যন্তর পরিষ্কার", "যন্ত্রপাতি গভীর পরিষ্কার", "নিখুঁত হস্তান্তর"]
+      },
+      "duration": { "en": "5–10 Hours", "ar": "٥–١٠ ساعات", "bn": "৫–১০ ঘন্টা" },
+      "includedItems": {
+        "en": ["All Rooms & Surfaces", "Kitchen Appliances", "Cabinet Interiors", "Bathroom Sanitization"],
+        "ar": ["جميع الغرف والأسطح", "الأجهزة المنزلية", "داخل الخزائن", "تعقيم الحمامات"],
+        "bn": ["সব ঘর ও পৃষ্ঠ", "রান্নাঘরের যন্ত্রপাতি", "ক্যাবিনেট অভ্যন্তর", "বাথরুম স্যানিটাইজেশন"]
+      }
+    },
+    {
+      "id": "full-home-deep",
+      "title": { "en": "Full Home Deep Cleaning", "ar": "تنظيف عميق كامل للمنزل", "bn": "সম্পূর্ণ বাড়ি গভীর পরিষ্কার" },
+      "description": {
+        "en": "Top-to-bottom comprehensive clean. All rooms, furniture, and hard-to-reach areas thoroughly cleaned.",
+        "ar": "تنظيف شامل من الأعلى إلى الأسفل. جميع الغرف والأثاث والمناطق يصعب الوصول إليها.",
+        "bn": "উপর থেকে নিচ পর্যন্ত ব্যাপক পরিষ্কার। সমস্ত ঘর, আসবাবপত্র, কঠিন-নাগালের জায়গা।"
+      },
+      "image": "/assets/after-1.png",
+      "benefits": {
+        "en": ["All Rooms Covered", "Furniture Cleaned", "Hard-to-Reach Areas", "100% Satisfaction"],
+        "ar": ["جميع الغرف مشمولة", "الأثاث منظف", "المناطق يصعب الوصول إليها", "رضا ١٠٠٪"],
+        "bn": ["সব ঘর অন্তর্ভুক্ত", "আসবাবপত্র পরিষ্কার", "কঠিন-নাগালের এলাকা", "১০০% সন্তুষ্টি"]
+      },
+      "duration": { "en": "6–12 Hours", "ar": "٦–١٢ ساعة", "bn": "৬–১২ ঘন্টা" },
+      "includedItems": {
+        "en": ["All Bedrooms & Living Areas", "Kitchen & Bathrooms", "Furniture & Upholstery", "Balcony & Storage"],
+        "ar": ["جميع غرف النوم والمعيشة", "المطبخ والحمامات", "الأثاث والمفروشات", "الشرفة والمخزن"],
+        "bn": ["সব শোয়ার ঘর ও বসার ঘর", "রান্নাঘর ও বাথরুম", "আসবাবপত্র ও আপহোলস্ট্রি", "বারান্দা ও স্টোরেজ"]
+      }
+    },
+    {
+      "id": "standard-home",
+      "title": { "en": "Standard Home Cleaning", "ar": "تنظيف منزلي قياسي", "bn": "স্ট্যান্ডার্ড হোম ক্লিনিং" },
+      "description": {
+        "en": "Regular maintenance cleaning. Dusting, sweeping, mopping, bathroom, and kitchen for a consistently clean home.",
+        "ar": "تنظيف صيانة منتظم. إزالة الغبار والكنس والمسح والحمام والمطبخ.",
+        "bn": "নিয়মিত রক্ষণাবেক্ষণ পরিষ্কার। ধুলো ঝাড়া, ঝাড়ু দেওয়া, মোপিং, বাথরুম এবং রান্নাঘর।"
+      },
+      "image": "/assets/after-2.png",
+      "benefits": {
+        "en": ["Regular Maintenance", "Fast & Efficient", "Eco-Friendly Products", "Flexible Scheduling"],
+        "ar": ["صيانة منتظمة", "سريع وفعال", "منتجات صديقة للبيئة", "جدولة مرنة"],
+        "bn": ["নিয়মিত রক্ষণাবেক্ষণ", "দ্রুত ও দক্ষ", "পরিবেশবান্ধব পণ্য", "নমনীয় সময়সূচী"]
+      },
+      "duration": { "en": "2–4 Hours", "ar": "٢–٤ ساعات", "bn": "২–৪ ঘন্টা" },
+      "includedItems": {
+        "en": ["Dusting & Wiping", "Vacuuming & Mopping", "Bathroom Cleaning", "Kitchen Cleaning"],
+        "ar": ["إزالة الغبار والمسح", "الكنس والمسح بالمماسح", "تنظيف الحمام", "تنظيف المطبخ"],
+        "bn": ["ধুলো ঝাড়া ও মোছা", "ভ্যাকুয়াম ও মপিং", "বাথরুম পরিষ্কার", "রান্নাঘর পরিষ্কার"]
+      }
+    },
+    {
+      "id": "kitchen-deep",
+      "title": { "en": "Kitchen Deep Cleaning", "ar": "تنظيف المطبخ العميق", "bn": "রান্নাঘর গভীর পরিষ্কার" },
+      "description": {
+        "en": "Remove grease, sanitize all surfaces, scrub sinks, polish appliances. Make your kitchen shine like new.",
+        "ar": "إزالة الشحوم وتعقيم جميع الأسطح وتنظيف الأحواض وتلميع الأجهزة.",
+        "bn": "গ্রিজ অপসারণ, সমস্ত পৃষ্ঠ স্যানিটাইজ, সিঙ্ক স্ক্রাব, যন্ত্রপাতি পালিশ।"
+      },
+      "image": "/assets/gallery-kitchen-1.png",
+      "benefits": {
+        "en": ["Grease Removal", "Sanitized Surfaces", "Appliance Polish", "Odor Elimination"],
+        "ar": ["إزالة الشحوم", "أسطح معقمة", "تلميع الأجهزة", "القضاء على الروائح"],
+        "bn": ["গ্রিজ অপসারণ", "স্যানিটাইজড পৃষ্ঠ", "যন্ত্রপাতি পালিশ", "গন্ধ দূরীকরণ"]
+      },
+      "duration": { "en": "2–3 Hours", "ar": "٢–٣ ساعات", "bn": "২–৩ ঘন্টা" },
+      "includedItems": {
+        "en": ["Countertops & Backsplash", "Oven & Microwave", "Sink & Faucets", "Cabinet Exteriors"],
+        "ar": ["أسطح العمل والجدار الخلفي", "الفرن والميكروويف", "الحوض والصنابير", "خارج الخزائن"],
+        "bn": ["কাউন্টারটপ ও ব্যাকস্প্ল্যাশ", "ওভেন ও মাইক্রোওয়েভ", "সিঙ্ক ও ট্যাপ", "ক্যাবিনেট বাইর"]
+      }
+    },
+    {
+      "id": "sofa-mattress",
+      "title": { "en": "Sofa & Mattress Cleaning", "ar": "تنظيف الأرائك والمراتب", "bn": "সোফা ও ম্যাট্রেস পরিষ্কার" },
+      "description": {
+        "en": "Remove dust, stains, and odors from sofas and mattresses. Extend furniture life with professional deep cleaning.",
+        "ar": "إزالة الغبار والبقع والروائح من الأرائك والمراتب. أطل عمر الأثاث.",
+        "bn": "সোফা এবং ম্যাট্রেস থেকে ধুলো, দাগ এবং গন্ধ অপসারণ।"
+      },
+      "image": "/assets/gallery-whole-home-1.png",
+      "benefits": {
+        "en": ["Stain Removal", "Odor Elimination", "Dust Mite Treatment", "Fabric Protection"],
+        "ar": ["إزالة البقع", "القضاء على الروائح", "معالجة عث الغبار", "حماية الأقمشة"],
+        "bn": ["দাগ অপসারণ", "গন্ধ দূরীকরণ", "ধুলো মাইট চিকিৎসা", "ফ্যাব্রিক সুরক্ষা"]
+      },
+      "duration": { "en": "1–3 Hours", "ar": "١–٣ ساعات", "bn": "১–৩ ঘন্টা" },
+      "includedItems": {
+        "en": ["Sofa Deep Clean", "Mattress Sanitization", "Cushion Cleaning", "Odor Treatment"],
+        "ar": ["تنظيف الأرائك العميق", "تعقيم المراتب", "تنظيف الوسائد", "معالجة الروائح"],
+        "bn": ["সোফা গভীর পরিষ্কার", "ম্যাট্রেস স্যানিটাইজেশন", "কুশন পরিষ্কার", "গন্ধ চিকিৎসা"]
+      }
+    },
+    {
+      "id": "office-commercial",
+      "title": { "en": "Office & Commercial Cleaning", "ar": "تنظيف المكاتب والأماكن التجارية", "bn": "অফিস ও কমার্শিয়াল ক্লিনিং" },
+      "description": {
+        "en": "Professional cleaning for offices and shops. Desks, floors, windows, and restrooms for a productive environment.",
+        "ar": "تنظيف مهني للمكاتب والمحلات. طاولات وأرضيات ونوافذ ودورات مياه لبيئة منتجة.",
+        "bn": "অফিস এবং দোকানের জন্য পেশাদার পরিষ্কার। ডেস্ক, মেঝে, জানালা এবং রেস্টরুম।"
+      },
+      "image": "/assets/after-2.png",
+      "benefits": {
+        "en": ["Professional Environment", "Regular Scheduling", "All Surfaces Covered", "Restroom Sanitization"],
+        "ar": ["بيئة مهنية", "جدولة منتظمة", "جميع الأسطح مشمولة", "تعقيم دورات المياه"],
+        "bn": ["পেশাদার পরিবেশ", "নিয়মিত সময়সূচী", "সব পৃষ্ঠ অন্তর্ভুক্ত", "রেস্টরুম স্যানিটাইজেশন"]
+      },
+      "duration": { "en": "3–8 Hours", "ar": "٣–٨ ساعات", "bn": "৩–৮ ঘন্টা" },
+      "includedItems": {
+        "en": ["Workstations & Desks", "Floor Cleaning & Polishing", "Window Cleaning", "Restroom Sanitization"],
+        "ar": ["محطات العمل والمكاتب", "تنظيف وتلميع الأرضيات", "تنظيف النوافذ", "تعقيم دورات المياه"],
+        "bn": ["ওয়ার্কস্টেশন ও ডেস্ক", "মেঝে পরিষ্কার ও পালিশ", "জানালা পরিষ্কার", "রেস্টরুম স্যানিটাইজেশন"]
+      }
+    },
+    {
+      "id": "bathroom-deep",
+      "title": { "en": "Bathroom Deep Cleaning", "ar": "تنظيف الحمام العميق", "bn": "বাথরুম গভীর পরিষ্কার" },
+      "description": {
+        "en": "Disinfect tiles, toilets, sinks, and showers. Remove stains and odors for a hygienic, sparkling bathroom.",
+        "ar": "تعقيم البلاط والمراحيض والأحواض والدشات. إزالة البقع والروائح.",
+        "bn": "টাইলস, টয়লেট, সিঙ্ক এবং শাওয়ার জীবাণুমুক্ত করুন। দাগ এবং গন্ধ অপসারণ।"
+      },
+      "image": "/assets/gallery-whole-home-1.png",
+      "benefits": {
+        "en": ["Full Disinfection", "Grout Cleaning", "Stain Removal", "Odor Elimination"],
+        "ar": ["تعقيم كامل", "تنظيف الغراء", "إزالة البقع", "القضاء على الروائح"],
+        "bn": ["সম্পূর্ণ জীবাণুমুক্তকরণ", "গ্রাউট পরিষ্কার", "দাগ অপসারণ", "গন্ধ দূরীকরণ"]
+      },
+      "duration": { "en": "1–2 Hours", "ar": "١–٢ ساعة", "bn": "১–২ ঘন্টা" },
+      "includedItems": {
+        "en": ["Toilet Disinfection", "Tile & Grout Scrubbing", "Mirror & Glass Polish", "Drain Cleaning"],
+        "ar": ["تعقيم المراحيض", "تنظيف البلاط والغراء", "تلميع المرايا والزجاج", "تنظيف الصرف"],
+        "bn": ["টয়লেট জীবাণুমুক্তকরণ", "টাইল ও গ্রাউট স্ক্রাবিং", "মিরর ও গ্লাস পালিশ", "ড্রেন পরিষ্কার"]
+      }
+    }
+  ],
+  "faq": [
+    {
+      "question": { "en": "What services do you offer?", "ar": "ما الخدمات التي تقدمونها؟", "bn": "আপনারা কি কি সেবা প্রদান করেন?" },
+      "answer": { "en": "We offer Post-Construction, Move-In/Out, Full Home Deep Clean, Standard Home, Kitchen Deep Clean, Bathroom Deep Clean, Sofa & Mattress, and Office & Commercial cleaning.", "ar": "نقدم تنظيف ما بعد البناء والانتقال والتنظيف العميق الكامل للمنزل والمنزلي القياسي وتنظيف المطبخ والحمام والأرائك والمراتب والمكاتب.", "bn": "আমরা পোস্ট-কনস্ট্রাকশন, মুভ-ইন/আউট, ফুল হোম ডিপ ক্লিন, স্ট্যান্ডার্ড হোম, কিচেন, বাথরুম, সোফা ও ম্যাট্রেস এবং অফিস পরিষ্কার সেবা প্রদান করি।" }
+    },
+    {
+      "question": { "en": "Are your products safe for children and pets?", "ar": "هل منتجاتكم آمنة للأطفال والحيوانات الأليفة؟", "bn": "আপনাদের পণ্য কি শিশু ও পোষা প্রাণীর জন্য নিরাপদ?" },
+      "answer": { "en": "Yes, we exclusively use eco-friendly, non-toxic, and biodegradable cleaning products completely safe for children and pets.", "ar": "نعم، نستخدم حصراً منتجات صديقة للبيئة وغير سامة وقابلة للتحلل البيولوجي.", "bn": "হ্যাঁ, আমরা শুধুমাত্র পরিবেশবান্ধব, বিষমুক্ত এবং জৈব-বিভাজ্য পরিষ্কার পণ্য ব্যবহার করি।" }
+    },
+    {
+      "question": { "en": "Do I need to be home during cleaning?", "ar": "هل أحتاج إلى التواجد أثناء التنظيف؟", "bn": "পরিষ্কারের সময় কি আমাকে বাড়িতে থাকতে হবে?" },
+      "answer": { "en": "No. Many clients provide a key or entry code. All our staff are fully vetted, trained, and insured for your peace of mind.", "ar": "لا. يوفر كثير من العملاء مفتاحاً أو رمز دخول. جميع موظفينا مدربون ومؤمن عليهم.", "bn": "না। অনেক ক্লায়েন্ট একটি চাবি বা প্রবেশ কোড দেন। সব কর্মীরা সম্পূর্ণ যাচাইকৃত এবং বীমাকৃত।" }
+    },
+    {
+      "question": { "en": "What areas in Riyadh do you serve?", "ar": "ما المناطق التي تخدمونها في الرياض؟", "bn": "রিয়াদে আপনারা কোন এলাকায় সেবা দেন?" },
+      "answer": { "en": "We serve all areas of Riyadh and surrounding regions including Diriyah, Al-Kharj, and Ad-Dilam.", "ar": "نخدم جميع مناطق الرياض والمناطق المحيطة بها بما في ذلك الدرعية والخرج والدلم.", "bn": "আমরা রিয়াদের সমস্ত এলাকা এবং আশেপাশের অঞ্চল পরিষেবা দিই।" }
+    },
+    {
+      "question": { "en": "Do you operate 24/7?", "ar": "هل تعملون على مدار الساعة؟", "bn": "আপনারা কি ২৪/৭ কাজ করেন?" },
+      "answer": { "en": "Yes! We operate 24/7, including weekends and public holidays. Book anytime and our team will accommodate your schedule.", "ar": "نعم! نعمل على مدار الساعة، بما في ذلك عطلات نهاية الأسبوع والأعياد الرسمية.", "bn": "হ্যাঁ! আমরা ২৪/৭ কাজ করি, সপ্তাহান্ত এবং সরকারি ছুটির দিন সহ।" }
+    },
+    {
+      "question": { "en": "How is pricing determined?", "ar": "كيف يتم تحديد الأسعار؟", "bn": "মূল্য কীভাবে নির্ধারণ করা হয়?" },
+      "answer": { "en": "Pricing depends on your home size, service type, and current condition. Use our online price estimator for an instant quote.", "ar": "يعتمد التسعير على حجم منزلك ونوع الخدمة والحالة الحالية. استخدم أداة التسعير عبر الإنترنت.", "bn": "মূল্য আপনার বাড়ির আকার, সেবার ধরন এবং বর্তমান অবস্থার উপর নির্ভর করে।" }
+    }
+  ],
+  "about": {
+    "story": {
+      "en": "Founded in Riyadh, Alpha Ultimate started with a simple mission: deliver cleaning services that are effective, trustworthy, and reliable. Through commitment to excellence, we grew into a leading name in the Riyadh cleaning industry.",
+      "ar": "تأسست في الرياض، بدأت ألفا ألتميت بمهمة بسيطة: تقديم خدمات تنظيف فعالة وجديرة بالثقة وموثوقة.",
+      "bn": "রিয়াদে প্রতিষ্ঠিত, আলফা আলটিমেট একটি সরল মিশন নিয়ে শুরু করেছিল।"
+    },
+    "mission": {
+      "en": "To deliver exceptional cleaning services through meticulous attention to detail, eco-friendly practices, and an unwavering commitment to customer satisfaction.",
+      "ar": "تقديم خدمات تنظيف استثنائية من خلال الاهتمام الدقيق بالتفاصيل والممارسات الصديقة للبيئة.",
+      "bn": "বিস্তারিত মনোযোগ এবং পরিবেশবান্ধব অনুশীলনের মাধ্যমে অসাধারণ পরিষ্কার সেবা প্রদান করা।"
+    },
+    "vision": {
+      "en": "To be the most trusted and respected cleaning service provider in the region, known for professionalism, reliability, and unwavering quality.",
+      "ar": "أن نكون مزود خدمات التنظيف الأكثر ثقة واحتراماً في المنطقة.",
+      "bn": "অঞ্চলের সবচেয়ে বিশ্বস্ত এবং সম্মানিত পরিষ্কার সেবা প্রদানকারী হওয়া।"
+    }
+  },
+  "contact": {
+    "address": {
+      "en": "Riyadh, Kingdom of Saudi Arabia",
+      "ar": "الرياض، المملكة العربية السعودية",
+      "bn": "রিয়াদ, সৌদি আরব রাজ্য"
+    },
+    "phone": "+966578695494",
+    "email": "info@alpha-ultimate.com"
+  },
+  "testimonials": [
+    {
+      "name": { "en": "Sarah Al-Amri", "ar": "سارة العمري", "bn": "সারাহ আল-আমরি" },
+      "text": { "en": "Alpha Ultimate transformed my home! The team was professional, thorough, and left everything spotless. Highly recommend their deep cleaning service.", "ar": "حوّلت ألفا ألتميت منزلي! كان الفريق محترفاً وشاملاً وترك كل شيء نظيفاً تماماً.", "bn": "আলফা আলটিমেট আমার বাড়ি রূপান্তরিত করেছে! দলটি পেশাদার, পুঙ্খানুপুঙ্খ।" },
+      "rating": 5
+    },
+    {
+      "name": { "en": "Mohammed Al-Qahtani", "ar": "محمد القحطاني", "bn": "মোহাম্মদ আল-কাহতানি" },
+      "text": { "en": "Best cleaning service in Riyadh. Highly recommended for post-construction cleaning. Very professional and efficient team.", "ar": "أفضل خدمة تنظيف في الرياض. موصى بها بشدة لتنظيف ما بعد البناء. فريق محترف وفعال.", "bn": "রিয়াদের সেরা পরিষ্কার সেবা। নির্মাণ পরবর্তী পরিষ্কারের জন্য অত্যন্ত প্রস্তাবিত।" },
+      "rating": 5
+    },
+    {
+      "name": { "en": "Layla Hassan", "ar": "ليلى حسن", "bn": "লায়লা হাসান" },
+      "text": { "en": "Excellent service and great attention to detail. Worth every riyal. Will definitely book again.", "ar": "خدمة ممتازة واهتمام رائع بالتفاصيل. تستحق كل ريال. سأحجز مرة أخرى.", "bn": "চমৎকার সেবা এবং বিস্তারিতে দুর্দান্ত মনোযোগ। প্রতিটি রিয়াল মূল্যবান।" },
+      "rating": 5
+    },
+    {
+      "name": { "en": "Omar Al-Rashid", "ar": "عمر الراشد", "bn": "ওমর আল-রাশিদ" },
+      "text": { "en": "Used Alpha Ultimate for our office and the results exceeded expectations. Punctual, efficient team with zero mess left behind.", "ar": "استخدمنا ألفا ألتميت لتنظيف مكتبنا والنتائج تجاوزت التوقعات.", "bn": "আমাদের অফিসের জন্য আলফা আলটিমেট ব্যবহার করেছি এবং ফলাফল প্রত্যাশা ছাড়িয়ে গেছে।" },
+      "rating": 5
+    },
+    {
+      "name": { "en": "Fatima Al-Zahrani", "ar": "فاطمة الزهراني", "bn": "ফাতিমা আল-জাহরানি" },
+      "text": { "en": "Booked move-in cleaning for my new apartment and couldn't be happier. Everything was spotless and smelled fresh.", "ar": "حجزت خدمة التنظيف عند الانتقال لشقتي الجديدة. كل شيء كان نظيفاً تماماً.", "bn": "আমার নতুন অ্যাপার্টমেন্টের জন্য মুভ-ইন ক্লিনিং বুক করেছি এবং এত খুশি।" },
+      "rating": 5
+    }
+  ]
+}
